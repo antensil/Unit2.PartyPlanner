@@ -1,0 +1,1 @@
+This is to build a website for an event organizer to be able to keep track of all the parties they are organizing.![image](https://github.com/antensil/Unit2.PartyPlanner/assets/60898978/520c45af-86b6-41d6-aa6d-26fd8ff6b7b1)
